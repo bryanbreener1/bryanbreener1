@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nestJs, nextJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-bq.netlify.app/](https://portfolio-bq.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-bq.netlify.app/](https://bryanquispe.netlify.app/)
 
 - 💬 Ask me about **javaScript,**
 
